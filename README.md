@@ -3,6 +3,8 @@
 - 🌱 I’m currently working on Machine Learning, Data Analytics and Algorithms.
 - 💬 Ask me about AI, Software Development, Software Testing
 - 📫 How to reach me: [✉](francis.sunny.25@gmail.com)
+
+![francis.sunny.25@gmail.com](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg "mail")
 - ⚡ Fun fact: I love finding🐞.
 
 <!--
