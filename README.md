@@ -6,12 +6,12 @@
 ## Projects
 
 ## Programming Languages
-[![image](https://user-images.githubusercontent.com/35664378/216773735-5d278f07-3389-4344-af3f-f04336d83ba9.png)](https://www.python.org/)
-[![image](https://user-images.githubusercontent.com/35664378/216773848-f91f23de-cdfc-4c6c-942b-8f760c85cb24.png)](https://www.java.com/en/)
-[![image](https://user-images.githubusercontent.com/35664378/216773963-6098b3b9-2171-4fb7-b13e-820e92e5c722.png)](https://www.r-project.org/)
+[![python](https://user-images.githubusercontent.com/35664378/216773735-5d278f07-3389-4344-af3f-f04336d83ba9.png)](https://www.python.org/)
+[![java](https://user-images.githubusercontent.com/35664378/216773848-f91f23de-cdfc-4c6c-942b-8f760c85cb24.png)](https://www.java.com/en/)
+[![R](https://user-images.githubusercontent.com/35664378/216773963-6098b3b9-2171-4fb7-b13e-820e92e5c722.png)](https://www.r-project.org/)
 ## Tools
 ### Data Analytics & Machine Learning
-[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" width="48">](https://numpy.org)
+[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" width="48" title="numpy">](https://numpy.org)
 [<img src="https://user-images.githubusercontent.com/35664378/216778270-8badd099-9bd0-4b4f-91df-0becf5e58150.png" width="48">](https://pandas.pydata.org)
 [<img src="https://user-images.githubusercontent.com/35664378/216778349-bc490836-c5de-434a-b2e5-450873b19c11.png" width="48">](https://scikit-learn.org/stable/)
 [<img src="https://user-images.githubusercontent.com/35664378/216778412-6c2019bd-4822-4450-8d36-fe066910be74.png" width="48">](https://www.tensorflow.org/)
