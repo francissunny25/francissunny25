@@ -3,9 +3,7 @@
 - 🌱 I’m currently working on Machine Learning, Data Analytics and Algorithms.
 - 💬 Ask me about AI, Software Development, Software Testing
 - 📫 How to reach me: [✉](francis.sunny.25@gmail.com)
-
-![francis.sunny.25@gmail.com](https://1000logos.net/wp-content/uploads/2018/05/Gmail-icon-1.png "mail")
-- ⚡ Fun fact: I love finding🐞.
+- ⚡ Fun fact: I love finding🐞in code.
 
 <!--
 **pranchi/pranchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
