@@ -15,8 +15,7 @@
 ## Tools
 ### Data Analytics & Machine Learning
 [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" width="48">](https://numpy.org)
-
-[![image](https://pandas.pydata.org/static/img/pandas_white.svg)](https://pandas.pydata.org/)
+[<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="48">](https://pandas.pydata.org)
 
 sklearn
 tensorflow
