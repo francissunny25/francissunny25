@@ -18,11 +18,10 @@
 [<img src="https://user-images.githubusercontent.com/35664378/216778550-7c47dd65-9c85-4d4e-bec9-0b8b8e6898c4.png" width="48">](https://keras.io/)
 [<img src="https://user-images.githubusercontent.com/35664378/216778642-38f30f0d-f83b-4bff-99cb-db577c480325.png" width="48">](https://openai.com/)
 ### Software Automation Testing
-Pytest
-Testng
-Postman
-Selenium
-Selenide
+[![image](https://user-images.githubusercontent.com/35664378/216779173-9e6aec16-6a90-40f6-819e-142c6ba12e49.png)](https://www.postman.com/)
+[<img src="https://user-images.githubusercontent.com/35664378/216779307-35cbf51e-db33-4468-b240-59a12d37c4ff.png" width="48">](https://www.selenium.dev/)
+[<img src="https://user-images.githubusercontent.com/35664378/216779393-d2562517-16f8-4572-aa05-32ab77f8b63c.png" width="48">](https://selenide.org/)
+[<img src="https://user-images.githubusercontent.com/35664378/216779457-174cf683-a584-462d-89d2-89408798c791.png" width="48">](https://docs.pytest.org/en/7.2.x/)
 ### Database
 ### CI/CD
 ### IDE
