@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently working on Machine Learning, Data Analytics and Algorithms.
+- 💬 Ask me about AI, Software Development, Software Testing
+- 📫 How to reach me: [✉](francis.sunny.25@gmail.com)
+- ⚡ Fun fact: I love finding🐞.
+
 <!--
 **pranchi/pranchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
