@@ -4,7 +4,7 @@
 - 💬 Ask me about AI, Software Development, Software Testing
 - 📫 How to reach me: [✉](francis.sunny.25@gmail.com)
 
-![francis.sunny.25@gmail.com](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg "mail")
+![francis.sunny.25@gmail.com](https://1000logos.net/wp-content/uploads/2018/05/Gmail-icon-1.png "mail")
 - ⚡ Fun fact: I love finding🐞.
 
 <!--
