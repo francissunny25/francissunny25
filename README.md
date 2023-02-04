@@ -1,9 +1,11 @@
-### About Me
+# About Me
 
 - 🌱 I’m currently working on Machine Learning, Data Analytics and Algorithms.
 - 💬 Ask me about AI, Algorithms, Software Development, Software Testing
 - 📫 How to reach me: [✉](francis.sunny.25@gmail.com)
 - ⚡ Fun fact: I love finding🐞in code.
+
+## Projects
 
 ## Programming Languages
 [![image](https://user-images.githubusercontent.com/35664378/216773735-5d278f07-3389-4344-af3f-f04336d83ba9.png)](https://www.python.org/)
