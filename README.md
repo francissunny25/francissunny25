@@ -14,8 +14,7 @@
 
 ## Tools
 ### Data Analytics & Machine Learning
-[![image](https://user-images.githubusercontent.com/35664378/216777739-5cfe850b-d264-4916-a534-9c7e435d6272.png)
-](https://numpy.org)
+[![image](https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png)](https://numpy.org)
 [![image](https://pandas.pydata.org/static/img/pandas_white.svg)](https://pandas.pydata.org/)
 
 sklearn
