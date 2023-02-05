@@ -23,6 +23,11 @@
 [<img src="https://user-images.githubusercontent.com/35664378/216779393-d2562517-16f8-4572-aa05-32ab77f8b63c.png" width="48">](https://selenide.org/)
 [<img src="https://user-images.githubusercontent.com/35664378/216779457-174cf683-a584-462d-89d2-89408798c791.png" width="48">](https://docs.pytest.org/en/7.2.x/)
 ### Database
+[<img src="https://user-images.githubusercontent.com/35664378/216813246-2c79a55b-f29d-4729-8909-3c911b2a7075.png" width="48">](https://hive.apache.org/)
+[<img src="https://user-images.githubusercontent.com/35664378/216813357-20a1641d-fb91-4c2a-9315-2f5bab0d2a82.png" width="48">](https://www.postgresql.org/)
+[<img src="https://user-images.githubusercontent.com/35664378/216813485-00fb7ace-c6e7-462c-9930-8faab4c0b126.png" width="48">](https://aws.amazon.com/redshift/)
+[<img src="https://user-images.githubusercontent.com/35664378/216813572-d443640c-ac2b-4690-976f-8c53254280a0.png" width="48">](https://www.mysql.com/)
+[<img src="https://user-images.githubusercontent.com/35664378/216813628-551f1b9d-687c-4260-ad87-8f260c5470ce.png" width="48">](https://dbeaver.io/)
 ### CI/CD
 ### IDE
 ### Project Management: 
