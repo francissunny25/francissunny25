@@ -30,7 +30,7 @@
 [<img src="https://user-images.githubusercontent.com/35664378/216813572-d443640c-ac2b-4690-976f-8c53254280a0.png" width="48">](https://www.mysql.com/)
 [<img src="https://user-images.githubusercontent.com/35664378/216813628-551f1b9d-687c-4260-ad87-8f260c5470ce.png" width="48">](https://dbeaver.io/)
 ### CI/CD
-[<img src="https://user-images.githubusercontent.com/35664378/216813796-ac500bf1-bc23-4f1b-a454-a8450a6824aa.png" width="48">](https://www.jenkins.io/)
+[<img src="https://user-images.githubusercontent.com/35664378/216813796-ac500bf1-bc23-4f1b-a454-a8450a6824aa.png" width="48" height="48">](https://www.jenkins.io/)
 [<img src="https://user-images.githubusercontent.com/35664378/216813880-44309ecc-26ac-432e-9bcf-17faeed9fb71.png" width="48">](https://about.gitlab.co)
 ### IDE
 Pycharm
