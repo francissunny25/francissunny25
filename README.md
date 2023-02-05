@@ -18,6 +18,7 @@
 [<img src="https://user-images.githubusercontent.com/35664378/216778550-7c47dd65-9c85-4d4e-bec9-0b8b8e6898c4.png" width="48">](https://keras.io/)
 [<img src="https://user-images.githubusercontent.com/35664378/216778642-38f30f0d-f83b-4bff-99cb-db577c480325.png" width="48">](https://openai.com/)
 ### Software Automation Testing
+![image](https://user-images.githubusercontent.com/35664378/216813749-4486a80e-89d9-4305-945f-7857f3ec8544.png)
 [![image](https://user-images.githubusercontent.com/35664378/216779173-9e6aec16-6a90-40f6-819e-142c6ba12e49.png)](https://www.postman.com/)
 [<img src="https://user-images.githubusercontent.com/35664378/216779307-35cbf51e-db33-4468-b240-59a12d37c4ff.png" width="48">](https://www.selenium.dev/)
 [<img src="https://user-images.githubusercontent.com/35664378/216779393-d2562517-16f8-4572-aa05-32ab77f8b63c.png" width="48">](https://selenide.org/)
@@ -29,7 +30,14 @@
 [<img src="https://user-images.githubusercontent.com/35664378/216813572-d443640c-ac2b-4690-976f-8c53254280a0.png" width="48">](https://www.mysql.com/)
 [<img src="https://user-images.githubusercontent.com/35664378/216813628-551f1b9d-687c-4260-ad87-8f260c5470ce.png" width="48">](https://dbeaver.io/)
 ### CI/CD
+[<img src="https://user-images.githubusercontent.com/35664378/216813796-ac500bf1-bc23-4f1b-a454-a8450a6824aa.png" width="48">](https://www.jenkins.io/)
+[<img src="https://user-images.githubusercontent.com/35664378/216813880-44309ecc-26ac-432e-9bcf-17faeed9fb71.png" width="48">](https://about.gitlab.co)
 ### IDE
+Pycharm
+DataSpell
+Eclipse
+Jupyter
+Colab
 ### Project Management: 
 [![image](https://user-images.githubusercontent.com/35664378/216774892-378cf645-6391-4e37-b499-b4aa359b667b.png)
 ](https://www.atlassian.com/software/jira)
