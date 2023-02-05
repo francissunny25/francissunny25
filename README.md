@@ -32,11 +32,12 @@
 [<img src="https://user-images.githubusercontent.com/35664378/216813796-ac500bf1-bc23-4f1b-a454-a8450a6824aa.png" width="48">](https://www.jenkins.io/)
 [<img src="https://user-images.githubusercontent.com/35664378/216813880-44309ecc-26ac-432e-9bcf-17faeed9fb71.png" width="48">](https://about.gitlab.co)
 ### IDE
-Pycharm
-DataSpell
-Eclipse
-Jupyter
-Colab
+[<img src="https://user-images.githubusercontent.com/35664378/216824932-aabe774b-d6c0-4758-b066-670797e73972.png" width="48">](https://www.jetbrains.com/pycharm/)
+[<img src="https://user-images.githubusercontent.com/35664378/216825035-0d72813a-8b76-4bd5-9dc6-86f061d207bf.png" width="48">](https://www.jetbrains.com/dataspell/)
+[<img src="https://user-images.githubusercontent.com/35664378/216825228-20362ad4-a1e8-405b-b15e-f2d5f797c376.png" width="48">](https://www.eclipse.org/)
+[<img src="https://user-images.githubusercontent.com/35664378/216825061-a2a3d04e-9dce-46c0-a021-5376fcb2e3a0.png" width="48">](https://jupyter.org/)
+[<img src="https://user-images.githubusercontent.com/35664378/216825122-52af8b17-a691-489a-86e1-ca02d4bcac47.png" width="48">](https://www.anaconda.com/)
+[<img src="https://user-images.githubusercontent.com/35664378/216825276-75bd641d-1e21-400b-bc12-153eaf4ed954.png" width="48">](https://code.visualstudio.com/)
 ### Project Management: 
 [![image](https://user-images.githubusercontent.com/35664378/216774892-378cf645-6391-4e37-b499-b4aa359b667b.png)
 ](https://www.atlassian.com/software/jira)
